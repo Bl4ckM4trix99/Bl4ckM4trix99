@@ -28,7 +28,7 @@
 <a href="https://medium.com/@[your-username]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="medium" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/[your-userid]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="30" width="40" /></a>
 <a href="https://leetcode.com/divyanshojha99/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Divyansh ojha" height="30" width="40" /></a>
-<a href = "mailto: divyanshojha2003@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+<a href = "mailto: shen.matrix0073@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 </p>
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=CTF+Player+%7C+Bug+Hunter;CS+Researcher+%7C+Android+Exploiter;Web+Developer+%7C+Security+Expert;Welcome+to+the+Matrix..." alt="Typing SVG" />
