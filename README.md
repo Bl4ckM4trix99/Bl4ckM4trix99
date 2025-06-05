@@ -15,7 +15,7 @@
 ```
 </p>
 <hr>
-<h1 align="center">AHOY! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"width="30px">,🕴️'m Bl4ckM4trix99</h1>
+<h1 align="center">AHOY! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"width="30px">,🕴️'m Bl4ckM4trix</h1>
 <h3 align="center">CYBER SECURITY RESEARCHER |  WEB & Software Developer  | passionate web & Android pentester 💻⚔ </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/kavish-shenal-352571362/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="astrohere" height="30" width="40" /></a>
